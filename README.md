@@ -1,4 +1,4 @@
-# Nutrient Monitoring & QC Dashboard — Case Study
+# Nutrient Monitoring & QC Dashboard: Case Study
 
 A case study from a data analytics internship in the food/nutrition
 manufacturing sector, redesigning a manual, Excel-based quality-control
@@ -59,6 +59,6 @@ external files or credentials required.
 
 This project pairs well with my [differential gene expression analysis
 portfolio project](#) (transcriptomics/bioinformatics), which applies a
-similar mindset — turning a domain-specific, statistically grounded analysis
+similar mindset - turning a domain-specific, statistically grounded analysis
 into a clear, reproducible, end-to-end pipeline — in a different scientific
 context.
